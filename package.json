@@ -1,0 +1,28 @@
+{
+  "name": "makerjs-disc-brake-mount-is",
+  "version": "1.0.0",
+  "description": "Disc brake mounting bolt patterns - front and rear, International Standard - for Maker.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmarshall/makerjs-disc-brake-mount-is.git"
+  },
+  "keywords": [
+    "makerjs",
+    "disc",
+    "brake",
+    "bicycle"
+  ],
+  "author": "Dan Marshall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/danmarshall/makerjs-disc-brake-mount-is/issues"
+  },
+  "homepage": "https://github.com/danmarshall/makerjs-disc-brake-mount-is#readme",
+  "dependencies": {
+    "makerjs": "^0.9.14"
+  }
+}
